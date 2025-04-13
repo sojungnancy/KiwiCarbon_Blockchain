@@ -86,21 +86,13 @@ New Zealand has committed to achieving **carbon neutrality by 2050**. However, t
 All protected routes require:
 
 
-
 ---
+## Files
 
-## 👥 Our Team
+<img width="749" alt="Screenshot 2025-04-13 at 10 03 43 PM" src="https://github.com/user-attachments/assets/fa5c2321-2d2a-4525-8ad3-c0b51d88f4d9" />
 
-| Name | Role | Background |
-|------|------|------------|
-| Nancy Kim | Core Infrastructure/Web3 | BSc/BCom - CompSci |
-| Brendan Choi | Core Infrastructure/Web3 | BSc - CompSci |
-| John Yang | Embedded Systems/Web3 | BEng - Mechatronics |
-| Jinsol Hong | Embedded Systems/Web3 | BEng - Mechatronics |
-| Phalidpol Zhu | Web Dev / Design | BSc/BCom - CompSci |
-| Seungbeom Yang | Web Dev / Design | BSc/BDesign - CompSci |
 
----
+
 
 ## ⚙️ Setup & Run Locally
 
@@ -124,3 +116,18 @@ yarn start
 # 6. (Optional) Start backend API
 cd packages/backend
 yarn start
+
+
+```
+---
+
+## 👥 Our Team
+
+| Name | Role | Background |
+|------|------|------------|
+| Nancy Kim | Core Infrastructure/Web3 | BSc/BCom - CompSci |
+| Brendan Choi | Core Infrastructure/Web3 | BSc - CompSci |
+| John Yang | Embedded Systems/Web3 | BEng - Mechatronics |
+| Jinsol Hong | Embedded Systems/Web3 | BEng - Mechatronics |
+| Phalidpol Zhu | Web Dev / Design | BSc/BCom - CompSci |
+| Seungbeom Yang | Web Dev / Design | BSc/BDesign - CompSci |
